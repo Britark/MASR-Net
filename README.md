@@ -16,7 +16,7 @@ MASR-Net (Asymmetric Mixture-of-Attention based Sparse Restoration Network) 是�
 
 4. **参数图生成**：Map Generator通过双路径融合生成像素级ISP参数图，消除棋盘伪影。
 
-![MASR-Net Architecture](MASR-Net.pdf)
+![MASR-Net Architecture](architecture.png)
 
 在多个基准数据集(LOL-v1/v2、LSRW)和地下矿山数据集(CMUPD)上的广泛实验表明，MASR-Net达到了最先进的性能，PSNR高达28.71 dB，SSIM高达0.860，同时保持了具有竞争力的效率(7.18G FLOPs)。
 
