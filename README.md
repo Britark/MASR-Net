@@ -37,6 +37,7 @@ Extensive experiments on multiple benchmark datasets (LOL-v1/v2, LSRW) and under
 | LSRW-Huawei | 23.05 dB | 0.737 |
 | LSRW-Nikon  | 19.99 dB | 0.600 |
 | CMUPD       | 30.23 dB | 0.879 |
+
 MASR-Net achieves state-of-the-art performance metrics while maintaining efficient computation (7.18G FLOPs).
 
 
